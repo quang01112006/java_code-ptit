@@ -1,0 +1,1 @@
+{"name":"Local: kiemTraSoFibo","url":"d:\\java oop\\codeptit\\kiemTraSoFibo.java","tests":[{"id":1755925586050,"input":"2\n8\n15","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\kiemTraSoFibo.java","group":"local","local":true}

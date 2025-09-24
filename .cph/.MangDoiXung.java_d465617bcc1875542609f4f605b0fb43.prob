@@ -1,0 +1,1 @@
+{"name":"Local: MangDoiXung","url":"d:\\java oop\\codeptit\\MangDoiXung.java","tests":[{"id":1756817638478,"input":"2\n4\n1 4 4 1\n5\n1 5 5 5 3","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\MangDoiXung.java","group":"local","local":true}

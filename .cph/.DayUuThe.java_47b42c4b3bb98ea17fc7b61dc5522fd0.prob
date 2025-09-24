@@ -1,0 +1,1 @@
+{"name":"Local: DayUuThe","url":"d:\\java oop\\codeptit\\DayUuThe.java","tests":[{"id":1758535844006,"input":"2\n11 22 33 44 55 66 77\n23 34 45 56 67 78 89 90 121 131 141 151 161 171","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\DayUuThe.java","group":"local","local":true}

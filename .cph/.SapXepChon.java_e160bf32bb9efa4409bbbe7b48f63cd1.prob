@@ -1,0 +1,1 @@
+{"name":"Local: SapXepChon","url":"d:\\java oop\\codeptit\\SapXepChon.java","tests":[{"id":1756822642612,"input":"4\n5 7 3 2","output":"Buoc 1: 2 7 3 5\nBuoc 2: 2 3 7 5\nBuoc 3: 2 3 5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\SapXepChon.java","group":"local","local":true}
