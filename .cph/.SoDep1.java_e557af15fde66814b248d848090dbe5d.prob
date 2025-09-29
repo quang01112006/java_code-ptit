@@ -1,0 +1,1 @@
+{"name":"Local: SoDep1","url":"d:\\java oop\\codeptit\\SoDep1.java","tests":[{"id":1759109346536,"input":"4\n123456787654321\n86442824468\n8006000444422220000222244440006008\n235365789787654324567856578654356786556","output":"NO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\SoDep1.java","group":"local","local":true}
