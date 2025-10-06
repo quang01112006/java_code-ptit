@@ -9,6 +9,7 @@ public class TongNSoNguyenDuong {
             long sum = (a*(a+1))/2;
             System.out.println(sum);
         }
+        sc.close();
     }
     
 }

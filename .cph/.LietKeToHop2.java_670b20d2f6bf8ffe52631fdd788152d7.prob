@@ -1,0 +1,1 @@
+{"name":"Local: LietKeToHop2","url":"d:\\java oop\\codeptit\\LietKeToHop2.java","tests":[{"id":1759587881600,"input":"5 3","output":"123 124 125 134 135 145 234 235 245 345\nTong cong co 10 to hop"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\LietKeToHop2.java","group":"local","local":true}
