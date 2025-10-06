@@ -1,0 +1,18 @@
+import java.math.BigInteger;
+import java.util.Scanner;
+
+public class ChiaHetCho11 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        for (int i=0;i<t;i++){
+            BigInteger n = sc.nextBigInteger();
+            BigInteger eleven = new BigInteger("11");
+            if (n.remainder(eleven).equals(BigInteger.ZERO)){
+                System.out.println(1);
+            } else{
+                System.out.println(0);
+            }
+        }
+    }
+}
