@@ -1,1 +1,0 @@
-{"name":"Local: SoLienKe","url":"d:\\java oop\\codeptit\\SoLienKe.java","tests":[{"id":1758539041636,"input":"3\n123212\n5654345676\n10233211123","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java oop\\codeptit\\SoLienKe.java","group":"local","local":true}
